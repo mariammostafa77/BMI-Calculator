@@ -69,7 +69,7 @@ class ResultScreen extends StatelessWidget{
                       height: 200.0,
                       decoration: BoxDecoration(
                         shape: BoxShape.circle,
-                          border: Border.all(color: Colors.teal,),
+                          border: Border.all(width: 2,color: Colors.teal,),
                       ),
                       child: Center(
                         child: Text(
